@@ -1,0 +1,5 @@
+$('.verse-btn').click(function() {
+  var verse = $('.verse-text').val();
+  $('.new-verse').text(verse);
+  alert('Horrible! You suck!');
+});

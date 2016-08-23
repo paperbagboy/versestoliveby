@@ -1,0 +1,34 @@
+.artist {
+  font-style: oblique;
+  font-family: "proxima-nova",sans-serif;
+  box-sizing: border-box;
+  margin-left: 400px
+}
+
+.verse {
+  font-weight: bold;
+}
+
+.verses {
+  font-family: "proxima-nova",sans-serif;
+  font-size: 18px;
+  width: auto;
+}
+
+h1 {
+  font-size: 22px;
+  font-family: "proxima-nova",sans-serif;
+  height: 75px;
+  width: 75px;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  text-align: center|left;
+}
+
+.suggest
+{
+  text-align: center;
+    font-size: 22px;
+    font-family: "proxima-nova",sans-serif;
+}
