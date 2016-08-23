@@ -1,3 +1,10 @@
+#new-verse-title {
+    font-size: 22px;
+    font-family: "proxima-nova",sans-serif;
+    margin-bottom: 3px;
+}
+
+
 .artist {
   font-style: oblique;
   font-family: "proxima-nova",sans-serif;
@@ -24,11 +31,4 @@ h1 {
   color: white;
   padding: 10px;
   text-align: center|left;
-}
-
-.suggest
-{
-  text-align: center;
-    font-size: 22px;
-    font-family: "proxima-nova",sans-serif;
 }
